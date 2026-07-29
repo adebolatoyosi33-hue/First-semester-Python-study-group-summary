@@ -1,7 +1,7 @@
 # First-semester-Python-study-group-summary
-# 🐍 Python Study Group – Hands-On Practice Exercises
+# Python Study Group – Hands-On Practice Exercises
 
-Welcome! 👋
+Welcome! 
 
 This repository contains my hands-on Python practice exercises completed during the **SmartBizCrux Technologies Python Study Group**.
 
@@ -9,7 +9,7 @@ It documents my learning journey as I build a strong foundation in Python progra
 
 ---
 
-# 📚 About This Repository
+# About This Repository
 
 Each folder in this repository contains the notebook(s) completed for a specific lesson.
 
@@ -19,7 +19,7 @@ This repository will continue to grow as I complete more lessons throughout the 
 
 ---
 
-# 📖 Lessons Covered
+# Lessons Covered
 
 - ✅ Lesson 1: Introduction to Python & Jupyter Notebook
 - ✅ Lesson 2: Variables, Data Types, Functions & User Input
@@ -33,7 +33,7 @@ This repository will continue to grow as I complete more lessons throughout the 
 
 ---
 
-# 📝 Summary of Notebooks
+# Summary of Notebooks
 
 ## 🔹 Hands-On Exercise 1: Printing Exercise
 
